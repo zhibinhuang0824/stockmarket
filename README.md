@@ -19,9 +19,3 @@ The repo is structured as:
 ## Statement on LLM usage
 
 There is no usage of LLM.
-
-
-## Some checks
-
-There are no special changes of file names
-
